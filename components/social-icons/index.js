@@ -22,5 +22,6 @@ const SocialIcon = ({ kind, href, size = 8 }) => {
 
   const SocialSvg = components[kind]
 
-  return}
+  return 0
+}
 export default SocialIcon
