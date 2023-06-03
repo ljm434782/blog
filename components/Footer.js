@@ -4,8 +4,6 @@ import SocialIcon from '@/components/social-icons'
 
 export default function Footer() {
   return (
-    <footer>
-      
-    </footer>
+    <footer></footer>
   )
 }
